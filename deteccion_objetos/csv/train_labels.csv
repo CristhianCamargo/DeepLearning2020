@@ -1,0 +1,61 @@
+filename,width,height,class,xmin,ymin,xmax,ymax
+americano1.jpg,300,300,futbol americano,7,69,294,232
+americano10.jpg,451,300,futbol americano,180,120,341,209
+americano11.jpg,200,300,futbol americano,34,67,60,88
+americano12.jpg,200,300,futbol americano,122,104,172,150
+americano13.jpg,200,300,futbol americano,68,118,104,174
+americano14.jpg,533,300,futbol americano,102,148,203,272
+americano15.jpg,533,300,futbol americano,342,48,388,121
+americano2.jpg,300,300,futbol americano,35,38,280,261
+americano3.jpg,300,300,futbol americano,4,68,297,231
+americano4.jpg,399,300,futbol americano,40,38,360,234
+americano5.jpg,400,300,futbol americano,73,65,348,237
+americano6.jpg,531,300,futbol americano,22,55,247,214
+americano7.jpg,449,300,futbol americano,97,188,236,291
+americano8.jpg,300,300,futbol americano,20,78,280,233
+americano9.jpg,450,300,futbol americano,97,39,367,222
+baloncesto1.jpg,300,300,baloncesto,28,27,272,272
+baloncesto10.jpg,457,300,baloncesto,107,143,242,278
+baloncesto11.jpg,533,300,baloncesto,272,150,315,193
+baloncesto12.jpg,450,300,baloncesto,210,119,237,147
+baloncesto13.jpg,450,300,baloncesto,192,14,225,46
+baloncesto14.jpg,480,300,baloncesto,175,1,244,65
+baloncesto15.jpg,533,300,baloncesto,156,93,297,231
+baloncesto2.jpg,299,300,baloncesto,15,16,282,283
+baloncesto3.jpg,300,300,baloncesto,10,8,290,292
+baloncesto4.jpg,207,300,baloncesto,6,52,201,249
+baloncesto5.jpg,305,300,baloncesto,1,1,304,298
+baloncesto6.jpg,251,300,baloncesto,127,23,208,107
+baloncesto7.jpg,300,300,baloncesto,5,1,295,297
+baloncesto8.jpg,533,300,baloncesto,184,85,357,259
+baloncesto9.jpg,478,300,baloncesto,219,119,344,246
+random1.jpg,300,300,baloncesto,133,73,227,167
+random1.jpg,300,300,voleibol,180,25,271,80
+random1.jpg,300,300,futbol americano,215,80,287,155
+random2.jpg,281,300,voleibol,165,7,250,91
+random2.jpg,281,300,baloncesto,24,110,118,206
+random2.jpg,281,300,futbol americano,161,117,260,205
+random3.jpg,300,300,baloncesto,78,17,140,80
+random3.jpg,300,300,voleibol,16,177,72,233
+random3.jpg,300,300,futbol americano,199,193,255,274
+random4.jpg,212,300,baloncesto,39,18,126,104
+random4.jpg,212,300,voleibol,99,178,184,255
+random5.jpg,300,300,voleibol,39,167,130,258
+random5.jpg,300,300,baloncesto,102,119,178,195
+random6.jpg,314,300,voleibol,195,166,312,281
+random6.jpg,314,300,baloncesto,26,167,145,287
+voleibol1.jpg,300,300,voleibol,30,30,270,269
+voleibol10.jpg,574,300,voleibol,409,10,463,63
+voleibol11.jpg,533,300,voleibol,295,147,339,191
+voleibol12.jpg,624,300,voleibol,375,14,427,66
+voleibol13.jpg,511,300,voleibol,149,16,200,66
+voleibol14.jpg,686,300,voleibol,272,120,441,295
+voleibol15.jpg,486,300,voleibol,207,88,287,186
+voleibol2.jpg,300,300,voleibol,29,24,268,264
+voleibol3.jpg,314,300,voleibol,6,3,276,271
+voleibol4.jpg,207,300,voleibol,6,52,201,249
+voleibol5.jpg,533,300,voleibol,138,25,244,131
+voleibol6.jpg,484,300,voleibol,261,10,294,42
+voleibol7.jpg,571,300,voleibol,327,39,564,271
+voleibol8.jpg,400,300,voleibol,222,9,271,57
+voleibol9.jpg,405,300,voleibol,248,24,270,46

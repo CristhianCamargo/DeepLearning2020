@@ -1,0 +1,26 @@
+<annotation>
+	<folder>imagenes</folder>
+	<filename>baloncesto29.jpg</filename>
+	<path>C:\Users\Usuario\Pictures\Balones\imagenes\baloncesto29.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>450</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>baloncesto</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>272</xmin>
+			<ymin>138</ymin>
+			<xmax>327</xmax>
+			<ymax>192</ymax>
+		</bndbox>
+	</object>
+</annotation>

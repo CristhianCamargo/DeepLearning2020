@@ -1,0 +1,26 @@
+<annotation>
+	<folder>imagenes</folder>
+	<filename>voleibol15.jpg</filename>
+	<path>C:\Users\Usuario\Pictures\Balones\imagenes\voleibol15.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>486</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>voleibol</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>207</xmin>
+			<ymin>88</ymin>
+			<xmax>287</xmax>
+			<ymax>186</ymax>
+		</bndbox>
+	</object>
+</annotation>

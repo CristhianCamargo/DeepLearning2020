@@ -1,0 +1,26 @@
+<annotation>
+	<folder>imagenes</folder>
+	<filename>americano29.jpg</filename>
+	<path>C:\Users\Usuario\Pictures\Balones\imagenes\americano29.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>392</width>
+		<height>345</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>futbol americano</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>16</xmin>
+			<ymin>23</ymin>
+			<xmax>370</xmax>
+			<ymax>213</ymax>
+		</bndbox>
+	</object>
+</annotation>

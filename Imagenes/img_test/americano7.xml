@@ -1,0 +1,26 @@
+<annotation>
+	<folder>imagenes</folder>
+	<filename>americano7.jpg</filename>
+	<path>C:\Users\Usuario\Pictures\Balones\imagenes\americano7.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>449</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>futbol americano</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>97</xmin>
+			<ymin>188</ymin>
+			<xmax>236</xmax>
+			<ymax>291</ymax>
+		</bndbox>
+	</object>
+</annotation>
